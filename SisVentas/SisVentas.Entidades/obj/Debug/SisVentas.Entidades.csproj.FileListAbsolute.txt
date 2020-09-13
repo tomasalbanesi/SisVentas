@@ -1,0 +1,6 @@
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Entidades\bin\Debug\SisVentas.Entidades.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Entidades\bin\Debug\SisVentas.Entidades.pdb
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Entidades\obj\Debug\SisVentas.Entidades.csprojAssemblyReference.cache
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Entidades\obj\Debug\SisVentas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Entidades\obj\Debug\SisVentas.Entidades.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Entidades\obj\Debug\SisVentas.Entidades.pdb

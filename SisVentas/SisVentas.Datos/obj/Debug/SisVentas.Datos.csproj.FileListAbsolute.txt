@@ -1,0 +1,9 @@
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\bin\Debug\SisVentas.Datos.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\bin\Debug\SisVentas.Datos.pdb
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\bin\Debug\SisVentas.Entidades.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\bin\Debug\SisVentas.Entidades.pdb
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\obj\Debug\SisVentas.Datos.csprojAssemblyReference.cache
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\obj\Debug\SisVentas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\obj\Debug\SisVentas.Datos.csproj.CopyComplete
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\obj\Debug\SisVentas.Datos.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Datos\obj\Debug\SisVentas.Datos.pdb

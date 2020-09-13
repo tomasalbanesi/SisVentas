@@ -1,0 +1,11 @@
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\bin\Debug\SisVentas.Negocio.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\bin\Debug\SisVentas.Negocio.pdb
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\bin\Debug\SisVentas.Datos.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\bin\Debug\SisVentas.Entidades.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\bin\Debug\SisVentas.Datos.pdb
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\bin\Debug\SisVentas.Entidades.pdb
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\obj\Debug\SisVentas.Negocio.csprojAssemblyReference.cache
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\obj\Debug\SisVentas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\obj\Debug\SisVentas.Negocio.csproj.CopyComplete
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\obj\Debug\SisVentas.Negocio.dll
+C:\Users\Tomás A. Albanesi\Google Drive (tomas.albanesi2000@gmail.com)\Apps and Projects\SisVentas Project\SisVentas\SisVentas.Negocio\obj\Debug\SisVentas.Negocio.pdb
